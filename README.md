@@ -1,3 +1,3 @@
 # React Firebase Super Chat
 
-A simple fullstack chat demo with React and Firebase. 
+A simple fullstack chat with React and Firebase. 
